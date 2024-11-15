@@ -58,7 +58,3 @@ This program serves as a good introduction to:
 - **Java graphics programming** using the **biuoop** library.
 - **Modular programming** and structuring code into separate classes for clarity and reuse.
 - Basic **animation techniques** such as ball movement and collision detection.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
